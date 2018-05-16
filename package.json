@@ -1,0 +1,25 @@
+{
+  "name": "generate-query-string",
+  "version": "1.0.0",
+  "description": "Generates a query string from a object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designalchemy/generate-query-string.git"
+  },
+  "keywords": [
+    "query",
+    "string",
+    "url",
+    "parameters"
+  ],
+  "author": "Luke Robertson https://github.com/designalchemy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designalchemy/generate-query-string/issues"
+  },
+  "homepage": "https://github.com/designalchemy/generate-query-string#readme"
+}
