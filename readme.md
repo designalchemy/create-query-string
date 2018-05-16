@@ -30,7 +30,7 @@ console.log(makeString)
 
 Please note:
 
-`decodeuricomponent` will need to applied to any special characetsr in the key and values
+`encodeURIComponent` has been applied to both key and values so `decodeURIComponent` will need to applied to any special characetsr in the key and values
 
 
 
